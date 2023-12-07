@@ -11,3 +11,15 @@
 /*gdpr*/
 
 /*footer*/
+.containerfooter{
+  width: 100%;
+  align-items: center;
+  align-content: center;
+}
+.kolomfooter{
+  display: inline-block;
+}
+.kolomfooter img{
+  width: 25%;
+  height: 25%;
+}
