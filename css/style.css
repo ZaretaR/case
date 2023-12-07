@@ -70,13 +70,23 @@ a:hover {
 /*footer*/
 .containerfooter{
   width: 100%;
-  align-items: center;
-  align-content: center;
+  display: flex;
+  background-color: grey;
 }
 .kolomfooter{
+  width: 400px;
   display: inline-block;
+  align-items: center;
+  text-align: center;
+
 }
 .kolomfooter img{
   width: 25%;
   height: 25%;
+}
+.uren{
+  text-align: center;
+}
+.contact h3{
+  font-weight: bold;
 }
